@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @LuizaValenthiny
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Sejam bem vindos!
+Sou a Luiza :) 
 
-<!---
-LuizaValenthiny/LuizaValenthiny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+Sobre mim:
+🏫 Em formação Administração de Empresas
+📷 Apaixonada por fotografias
+
